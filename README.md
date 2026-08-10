@@ -50,27 +50,33 @@
 
 ---
 
-<!-- 🔷 GITHUB STATS -->
 ## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nishantkk84&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nishantkk84&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-<!-- 🔷 STREAK -->
 ## 🔥 Streak Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishantkk84&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=nishantkk84&theme=tokyonight" />
 </p>
 
 ---
-
-<!-- 🔷 FUN -->
-## ⚡ Fun Fact
-💡 I build AI systems that interact with the real world using Computer Vision
 
 ## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nishantkk84/nishantkk84/output/snake.svg" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💡 I build AI systems that interact with the real world using Computer Vision
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nishantkk84/nishantkk84/output/github-contribution-grid-snake.svg" />
