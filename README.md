@@ -61,7 +61,7 @@
 <!-- 🔷 STREAK -->
 ## 🔥 Streak Stats
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=nishantkk84&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nishantkk84&show_icons=true&theme=radical" />
 </p>
 
 ---
