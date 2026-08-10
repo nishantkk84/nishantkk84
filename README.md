@@ -46,6 +46,7 @@
 <a href="https://linkedin.com/in/nishant-khobragade/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://nishantkhobragade.infy.uk/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="https://github.com/nishantkk84"><img src="https://skillicons.dev/icons?i=github" /></a>
+   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark&perline=15" alt="My Skills" /></a>
 </p>
 
 ---
