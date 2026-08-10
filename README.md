@@ -1,9 +1,6 @@
 <!-- 🔷 BANNER IMAGE (TOP) -->
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=#FF0000&center=true&vCenter=true&width=600&lines=AI+Engineer;Computer+Vision+Developer;Python+Programmer;OpenCV+Expert" />
- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=#FF0000&center=true&vCenter=true&width=700&lines=🚀+AI+Engineer;🤖+Computer+Vision+Developer;🐍+Python+Programmer;🔥+OpenCV+Expert" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0F27F7&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
    <img src="https://raw.githubusercontent.com/nishantkk84/nishant/main/Nishant_github.png" />
   
 </p>
