@@ -9,13 +9,14 @@
 
 <!-- 🔷 ABOUT ME -->
 ## 🧑‍💻 About Me
-- 🎓 Mechatronics Engineer  
-- 📊 Data Science / Analyst  
-- 🐍 Python Developer  
-- 🤖 Machine Learning & Generative AI  
-- 👁️ OpenCV & Computer Vision  
-- 🌏 Japanese Bilingual  
-- 📍 Pune, Maharashtra, India  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science%20%2F%20Analyst-0A66C2?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning%20%26%20GenAI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV%20%26%20Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Japanese%20Bilingual-BC002D?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+</p>
 
 ---
 
