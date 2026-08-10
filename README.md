@@ -1,6 +1,10 @@
 <!-- 🔷 BANNER IMAGE (TOP) -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0F27F7&width=435&lines=Python+NumPy+Pandas+Power BI+Tensorflow+tableau" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0F27F7&center=true&vCenter=true&width=600&lines=Python+NumPy+Pandas;Power+BI+TensorFlow+Tableau" alt="Typing SVG" />
+  </a>
+</p>
    <img src="https://raw.githubusercontent.com/nishantkk84/nishant/main/Nishant_github.png" />
   
 </p>
