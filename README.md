@@ -44,7 +44,7 @@
 ## 🌐 Connect with Me
 <p align="center">
 <a href="https://linkedin.com/in/nishant-khobragade/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://instagram.com/YOUR_LINK"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://nishantkhobragade.infy.uk/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="https://github.com/nishantkk84"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
